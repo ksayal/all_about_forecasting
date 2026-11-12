@@ -1,0 +1,6 @@
+.venvs/
+__pycache__/
+*.egg-info/
+.pytest_cache/
+results/*.csv
+results/forecasts/
